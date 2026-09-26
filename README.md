@@ -6,15 +6,15 @@ This project is an end-to-end sales data analysis of Vrinda Store using Microsof
 
 I worked on the complete process starting from raw data cleaning and processing to data analysis, visualization and dashboard creation.
 
-The main aim of the project was to understand sales performance, customer behaviour, order status and sales channels and present the findings in a simple dashboard.
+The main purpose of this project was to understand sales performance, customer behaviour, order status and sales channels and present the findings through an interactive dashboard.
 
 ---
 
 ## 🎯 Project Objectives
 
-The project was created to answer questions such as:
+The project was created to answer the following questions:
 
-- How are sales and orders changing month by month?
+- How do sales and orders change month by month?
 - Which gender contributes more to sales?
 - Which age group contributes the most orders?
 - Which states have the highest sales?
@@ -28,7 +28,7 @@ The project was created to answer questions such as:
 
 ### 1. Data Cleaning
 
-I first worked on the raw data and cleaned it before starting the analysis.
+I started with the raw dataset and cleaned the data before beginning the analysis.
 
 ### 2. Data Processing
 
@@ -53,9 +53,14 @@ I created an interactive Excel dashboard using:
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Excel data analysis and visualization
+- Excel formulas and functions
+- Data visualization
 
-The dashboard contains filters for Month, Category and Channel.
+The dashboard includes filters for:
+
+- Month
+- Category
+- Channel
 
 ---
 
@@ -86,11 +91,11 @@ Women contributed around **64% of total sales**, while men contributed around **
 
 Around **92% of orders were delivered**.
 
-The remaining orders included returned, cancelled and refunded orders.
+The remaining orders were returned, cancelled or refunded.
 
-### 3. Top States
+### 3. Top 5 States by Sales
 
-The top 5 states by sales were:
+The top 5 states based on sales were:
 
 1. Maharashtra
 2. Karnataka
@@ -100,11 +105,11 @@ The top 5 states by sales were:
 
 ### 4. Age Group
 
-The **Adult age group (30–49 years)** was the largest contributor, making up around **50% of the orders**.
+The **Adult age group (30–49 years)** contributed around **50% of the orders**.
 
 ### 5. Sales Channels
 
-The three largest channels by order contribution were:
+The largest sales channels by order contribution were:
 
 - Amazon – 35%
 - Myntra – 23%
@@ -114,9 +119,13 @@ The three largest channels by order contribution were:
 
 ## 📌 Final Recommendation
 
-Based on the analysis, a possible approach for improving sales would be to focus on women customers in the **30–49 age group**, especially in major states such as **Maharashtra, Karnataka and Uttar Pradesh**.
+Based on the analysis, women customers aged **30–49 years** were an important customer group in the dataset.
 
-Products can also be promoted through major sales channels such as **Amazon, Myntra and Flipkart**.
+Maharashtra, Karnataka and Uttar Pradesh were among the top-performing states by sales.
+
+Based on these findings, one possible approach to improve sales would be to focus marketing efforts on women customers in the 30–49 age group in these major states.
+
+Products can also be promoted through major channels such as **Amazon, Myntra and Flipkart**.
 
 ---
 
@@ -126,6 +135,7 @@ Products can also be promoted through major sales channels such as **Amazon, Myn
 - Pivot Tables
 - Pivot Charts
 - Slicers
+- Excel Formulas and Functions
 - Data Cleaning
 - Data Processing
 - Data Analysis
@@ -135,11 +145,13 @@ Products can also be promoted through major sales channels such as **Amazon, Myn
 
 ## 📁 Project Files
 
-- `Vrinda Store Data Analysis.xlsx` – Complete Excel project containing the data analysis and dashboard.
+- `Vrinda Store Data Analysis.xlsx` – Complete Excel project containing the raw data, analysis and dashboard.
 - `vrinda-store-dashboard.png` – Final dashboard screenshot.
 
 ---
 
-## 👩‍💻 About the Project
+## 📌 What I Learned
 
-This project helped me practice the complete data analysis process in Excel, from working with raw data to creating a final dashboard and explaining the insights from the analysis.
+Through this project, I practiced the complete data analysis process in Excel, starting from raw data and going through data cleaning, processing, analysis and visualization.
+
+I also learned how to use Excel to turn a large dataset into a simple dashboard and explain the main findings from the data.
